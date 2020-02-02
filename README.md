@@ -15,7 +15,7 @@ The summation of these two conflicts forms the fitness value of the optimization
 The UI built by the Qt framework for C++, and there are some controls for adjusting the GA parameters, and there is a line reporting the best-found fitness value for the puzzle. In the case of finding a correct solution, the positions of queens are will be shown on the chessboard without any red border. Also, the FitVal will be shown in green(Fig. 2). By contrast, in the case of failure, the FitVal will be shown in red (Fig.1), and the queens threatening each other will be depicted with red borders. Furthermore, under the "History" part, parameters and the resulted FitVal are being shown.
 
 # Screenshots
-| ![Failure Screenshot](https://raw.githubusercontent.com/mirerfangheibi/QtEightQueensGA/master/Screenshots/Failure.png )Fig.1: Genetic Algorithm could not find a solution | ![Success Screenshot](https://raw.githubusercontent.com/mirerfangheibi/QtEightQueensGA/master/Screenshots/Success.png)Fig.2: Genetic Algorithm found a solution |
+| ![Failure Screenshot](https://raw.githubusercontent.com/mirerfangheibi/Qt-Eight-Queens-GA/master/Screenshots/Failure.png )Fig.1: Genetic Algorithm could not find a solution | ![Success Screenshot](https://raw.githubusercontent.com/mirerfangheibi/Qt-Eight-Queens-GA/master/Screenshots/Success.png)Fig.2: Genetic Algorithm found a solution |
 |--|--|
 
 
